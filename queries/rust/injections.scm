@@ -1,5 +1,5 @@
-(macro_invocation
-  (token_tree) @injection.content (#set! injection.language "rust"))
+;(macro_invocation
+;  (token_tree) @injection.content (#set! injection.language "rust"))
 
 (macro_definition
   (macro_rule
